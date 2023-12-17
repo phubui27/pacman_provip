@@ -144,7 +144,7 @@ public class Pacman extends JApplet implements MouseListener, KeyListener
     }
 
 
-    /* If we have a normal game state, move all pieces and update pellet status */
+    /* Game moi */
     if (!New)
     {
       /* The pacman player has two functions, demoMove if we're in demo mode and move if we're in
